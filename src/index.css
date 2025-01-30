@@ -1,0 +1,20 @@
+:root {
+  /* Xaman theme variables */
+  --xaman-primary-color: #000;
+  --xaman-background-color: #ffffff;
+  --xaman-text-color: #000000;
+  --xaman-border-color: #e2e8f0;
+  --xaman-accent-color: #3b82f6;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.5;
+  color: var(--xaman-text-color);
+}
